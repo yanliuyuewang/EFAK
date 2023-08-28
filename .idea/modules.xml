@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/efak.iml" filepath="$PROJECT_DIR$/efak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/efak-api/efak-api.iml" filepath="$PROJECT_DIR$/efak-api/efak-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/efak-common/efak-common.iml" filepath="$PROJECT_DIR$/efak-common/efak-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/efak-core/efak-core.iml" filepath="$PROJECT_DIR$/efak-core/efak-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/efak-plugin/efak-plugin.iml" filepath="$PROJECT_DIR$/efak-plugin/efak-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/efak-web/efak-web.iml" filepath="$PROJECT_DIR$/efak-web/efak-web.iml" />
+    </modules>
+  </component>
+</project>

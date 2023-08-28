@@ -1,0 +1,67 @@
+
+P
+java:S1118'":Add a private constructor to hide the implicit public one.(™Ğä¨
+h
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ƒ»Ì
+W
+java:S3457L"AFormat specifiers should be used instead of string concatenation.(áŠÃ÷
+X
+java:S1858R"="get" returns a string, there's no need to call "toString()".(›Ä»Öşÿÿÿÿ
+S
+java:S1858S"="get" returns a string, there's no need to call "toString()".(Ú§÷á
+X
+java:S1858V"="get" returns a string, there's no need to call "toString()".(¢è‹‘ıÿÿÿÿ
+X
+java:S1858W"="get" returns a string, there's no need to call "toString()".(áÛÅŞøÿÿÿÿ
+X
+java:S1858["="get" returns a string, there's no need to call "toString()".(„Ê¯ãùÿÿÿÿ
+S
+java:S1858\"="get" returns a string, there's no need to call "toString()".(Âÿ‹Ä
+R
+java:S1858_"="get" returns a string, there's no need to call "toString()".(Ê¤¹$
+X
+java:S1858`"="get" returns a string, there's no need to call "toString()".(é‹…Ôùÿÿÿÿ
+X
+java:S1858c"="get" returns a string, there's no need to call "toString()".(¼çÏúÿÿÿÿ
+X
+java:S1858d"="get" returns a string, there's no need to call "toString()".(°§¡ÿÿÿÿÿ
+W
+java:S3457h"AFormat specifiers should be used instead of string concatenation.(ãáÃ
+\
+java:S3457j"AFormat specifiers should be used instead of string concatenation.(°œÕ‡ıÿÿÿÿ
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ª„×üÿÿÿÿ
+X
+java:S3457’"AFormat specifiers should be used instead of string concatenation.(Åûİ¹
+]
+java:S3457”"AFormat specifiers should be used instead of string concatenation.(à¿ìøÿÿÿÿ
+`
+java:S1192^"JDefine a constant instead of duplicating this literal "_INDEX_TM" 3 times.(Ïãş
+h
+java:S1192b"RDefine a constant instead of duplicating this literal "_INDEX_TM_CLUSTER" 3 times.(¤Ö†¶
+c
+java:S1192U"HDefine a constant instead of duplicating this literal "_INSERT" 3 times.(ŠÚõÍøÿÿÿÿ
+_
+java:S1192h"IDefine a constant instead of duplicating this literal "Create [" 3 times.(ãáÃ
+]
+java:S1192Z"GDefine a constant instead of duplicating this literal "_INDEX" 3 times.(’Áİ¢
+M
+java:S2629L"7Use the built-in formatting to construct this argument.(áŠÃ÷
+M
+java:S2629h"7Use the built-in formatting to construct this argument.(ãáÃ
+R
+java:S2629j"7Use the built-in formatting to construct this argument.(°œÕ‡ıÿÿÿÿ
+S
+java:S2629"7Use the built-in formatting to construct this argument.(ª„×üÿÿÿÿ
+N
+java:S2629’"7Use the built-in formatting to construct this argument.(Åûİ¹
+S
+java:S2629”"7Use the built-in formatting to construct this argument.(à¿ìøÿÿÿÿ
+c
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(·÷…Œüÿÿÿÿ
+c
+java:S2095…"GUse try-with-resources or close this "Statement" in a "finally" clause.(­Ö›óúÿÿÿÿ
+]
+java:S2095A"GUse try-with-resources or close this "Statement" in a "finally" clause.(éÉ¥
+]
+java:S2095P"GUse try-with-resources or close this "Statement" in a "finally" clause.(‚ÌÆË

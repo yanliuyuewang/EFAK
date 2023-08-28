@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="efak-common" />
+        <module name="efak-api" />
+        <module name="efak-core" />
+        <module name="efak-plugin" />
+        <module name="efak-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="efak" target="8" />
+      <module name="efak-api" target="8" />
+      <module name="efak-common" target="8" />
+      <module name="efak-core" target="8" />
+      <module name="efak-plugin" target="8" />
+      <module name="efak-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

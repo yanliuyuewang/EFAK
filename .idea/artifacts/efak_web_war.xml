@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="efak-web:war">
+    <output-path>$PROJECT_DIR$/efak-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>efak-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ke.war">
+      <element id="artifact" artifact-name="efak-web:war exploded" />
+    </root>
+  </artifact>
+</component>

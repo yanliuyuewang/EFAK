@@ -64,6 +64,7 @@ public class KafkaClusterSubTask extends Thread {
             if (SystemConfigUtils.getBooleanProperty("efak.metrics.charts")) {
                 String[] clusterAliass = SystemConfigUtils.getPropertyArray("efak.zk.cluster.alias", ",");
                 for (String clusterAlias : clusterAliass) {
+                    // kafka
                     this.kafkaCluster(clusterAlias);
                 }
             }
